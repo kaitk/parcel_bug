@@ -4,7 +4,7 @@ import ReduxToastr from 'react-redux-toastr';
 import Root from './Root';
 
 class App extends React.Component {
-  // ReduxToastr fails
+  // ReduxToastr fails, regardless of .bablerc config
   render() {
     return (
       <div className="App">
