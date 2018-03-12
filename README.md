@@ -6,10 +6,11 @@
 ## Expected Behaviour
 Parcel honors the dependencies (react-redux-toastr) babel config and builds it.
 
-##Environment
-| SoftWare | Version(s) |
-| ---------|------------|
-| Parcel   | 1.6.0 - 1.6.2 |
-| Node     | 8.9.1 |
-| npm      | 5.5.1 |
-| OS       | macOS 10.13.3 |
+## Environment
+
+| Software         | Version(s) |
+| ---------------- | ---------- |
+| Parcel           | 1.6.0 - 1.6.2 
+| Node             | 8.9.1 
+| npm/Yarn         | 5.5.1 
+| Operating System | macOS 10.13.3 
