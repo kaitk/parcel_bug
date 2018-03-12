@@ -1,7 +1,7 @@
 # Parcel with ReduxToastr
 
 ## Current Behaviour
-`npm start` or `npm run build` fails in default config. Works if removing (or commenting out) ReduxToastr related code in RootReducer and Root.jsx.
+`npm start` or `npm run build` fails with default config. The project builds, when one removes (or comments out) ReduxToastr related code in RootReducer.js and Root.jsx.
 
 ## Expected Behaviour
 Parcel honors the dependencies (react-redux-toastr) babel config and builds it.
